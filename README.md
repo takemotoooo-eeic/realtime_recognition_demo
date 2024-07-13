@@ -1,0 +1,2 @@
+# realtime_recognition_demo
+Geminiによるリアルタイムの動画＆音声認識
